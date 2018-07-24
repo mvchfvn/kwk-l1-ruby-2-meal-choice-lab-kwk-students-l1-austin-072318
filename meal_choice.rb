@@ -24,9 +24,9 @@ puts snacks("Swedish fish")
 ## This returns "Any time, is the right time for Sweedish fish!"
 
 # call your methods here
-breakfast("trix")
-lunch("Pancakes")
-dinner("omelettes")
+breakfast("pancakes")
+lunch("peanu butter")
+dinner("broccoli")
 # Call your methods without any arguments here
 puts snacks
 ## In our snacks method, the default choice is "Cheetos" Calling snacks like this without specifying a choice will return "Any time, is the right time for Cheetos!"
